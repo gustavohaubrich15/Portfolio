@@ -19,3 +19,5 @@ $ npm start
 ```
 ![image](https://github.com/gustavohaubrich15/Portfolio/assets/22485428/da57df33-597b-479a-bbe3-c047e5784917)
 
+* [Acesse aqui a aplicação](https://portfolio-gtziyuszb-gustavohaubrich15.vercel.app/)
+
