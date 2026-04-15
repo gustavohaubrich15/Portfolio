@@ -13,13 +13,13 @@ interface IExperience {
 
 export const Sobre: React.FC = () => {
 
-    const [experiences] = useState<IExperience[]>([{
+    const [experiences] = useState<IExperience[]>([
+    {
         ano: '1996',
         descricao: 'Nascimento',
         point: 'left-[10%]',
         descricaoPosition: 'left-[8%]',
         animation: 'animate-fadeInPoints-timeline-1'
-
     },
     {
         ano: '2019',
@@ -40,15 +40,24 @@ export const Sobre: React.FC = () => {
         animation: 'animate-fadeInPoints-timeline-3'
     },
     {
-        ano: '2020/Atualmente',
+        ano: '2020-2024',
         descricao: 'GVDASA',
         detalhe: 'C# e React TS',
         funcao: 'Dev FullStack',
         point: 'left-[86%]',
         descricaoPosition: 'left-[83%]',
         animation: 'animate-fadeInPoints-timeline-4'
+    },
+    {
+        ano: '2024/atualmente',
+        descricao: 'Evertec Brasil',
+        detalhe: 'C# e Oracle',
+        funcao: 'Dev .Net',
+        point: 'left-[100%]',
+        descricaoPosition: 'left-[96%]',
+        animation: 'animate-fadeInPoints-timeline-5'
     }
-    ])
+])
 
 
 
