@@ -28,6 +28,7 @@ module.exports = {
         'fadeInPoints-timeline-2': 'fadeIn 3s linear forwards',
         'fadeInPoints-timeline-3': 'fadeIn 4.5s linear forwards',
         'fadeInPoints-timeline-4': 'fadeIn 6s linear forwards',
+        'fadeInPoints-timeline-5': 'fadeIn 7.5s linear forwards',
         'fadeInCard': 'fadeInCard 1.5s ease-out forwards',
       },
     },
